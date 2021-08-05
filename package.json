@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/BRIGHTLAB/react-material-form/issues"
   },
+  "publishConfig": {
+    "@brightlab:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/BRIGHTLAB/react-material-form#readme"
 }
