@@ -1,0 +1,26 @@
+{
+  "name": "@brightlab/react-material-form",
+  "version": "0.0.1",
+  "description": "Dynamic Material UI form creation from a JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRIGHTLAB/react-material-form.git"
+  },
+  "keywords": [
+    "material",
+    "ui",
+    "form",
+    "react",
+    "reactjs"
+  ],
+  "author": "BrightLab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRIGHTLAB/react-material-form/issues"
+  },
+  "homepage": "https://github.com/BRIGHTLAB/react-material-form#readme"
+}
